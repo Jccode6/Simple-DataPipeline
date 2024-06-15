@@ -1,2 +1,5 @@
 # Simple-DataPipeline
 An end to end solution to create an environment for analytical reporting.
+# Description 
+Business users currently use Microsoft Excel for data storage and reporting. Requirement is to develop a more stable and secure environment for analytical reporting. 
+Data Pipeline was created to meet requirement by creating a database instance in Postgres, modeling a data structure, performing ELT on csv file to database for consumption. 
