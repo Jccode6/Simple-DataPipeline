@@ -6,7 +6,7 @@ Data Pipeline was created to meet requirement by creating a database instance in
 # Steps 
 1. Create logical data model
 2. Create physical data model
-Import csv into Pandas dataframe
-Create database engine connection
-Load staging table in Postgres with dataframe
-Perform Transformations and loading using SQL
+3. Import csv into Pandas dataframe
+4. Create database engine connection
+5. Load staging table in Postgres with dataframe
+6. Perform Transformations and load into target tables using SQL
